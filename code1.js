@@ -130,7 +130,7 @@ gdjs.In_32GameCode.condition0IsTrue_0.val = !(gdjs.evtTools.runtimeScene.getTime
 }if (gdjs.In_32GameCode.condition0IsTrue_0.val) {
 gdjs.In_32GameCode.GDenemyObjects1.length = 0;
 
-{gdjs.evtTools.object.createObjectOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.In_32GameCode.mapOfGDgdjs_46In_9532GameCode_46GDenemyObjects1Objects, gdjs.randomInRange(0, 800), -(25), "");
+{gdjs.evtTools.object.createObjectOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.In_32GameCode.mapOfGDgdjs_46In_9532GameCode_46GDenemyObjects1Objects, gdjs.randomInRange(0, 1440), -(100), "");
 }{gdjs.evtTools.runtimeScene.resetTimer(runtimeScene, "enemy");
 }}
 
